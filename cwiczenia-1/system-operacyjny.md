@@ -23,9 +23,7 @@ Konfiguracja połączenia sieciowego
 
 Schemat sieci
 -------------
-[alt schemat](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)![alt schemat](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
-aby załączyć obrazek 
-
+[alt schemat](images/my-network-schema.png)
 ```markdown
 ![alt schemat](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)![alt schemat](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
 
