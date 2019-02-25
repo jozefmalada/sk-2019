@@ -82,7 +82,7 @@ Warto wiedzieć
 | Parametr | wartość | komentarz(opcionalny) |
 | ------------- |:-------------:| -----:|
 | Lokalizacja pliku z konfiguracją sieci| | |
-| UP -> Wyłączenie interfejsu sieciowego| | |
+| UP -> Wyłączenie interfejsu sieciowego|ifup | enp03|
 | DOWN -> Włączenie interfejsu sieciowego| | |
 | Sprawdzenie obecnych parametrów | | |
 | lista wszystkich interfejsów | | |
